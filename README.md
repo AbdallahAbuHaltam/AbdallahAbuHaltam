@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbdallahAbuHaltam
 - 👀 I’m interested in Development and designs
-- 🌱 I’m currently learning Flutter and PM
+- 🌱 I’m currently learning Angular and ReactJS
 
 
 <!---
